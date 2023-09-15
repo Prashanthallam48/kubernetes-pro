@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: kube-project-container
-        image: prashanthallamvarma/kubernetes_project
+        image: prashanthallamvarma/pipeline_project
         ports:
         - containerPort: 80
