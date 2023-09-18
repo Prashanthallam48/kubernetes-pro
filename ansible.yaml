@@ -1,5 +1,5 @@
 ---
-- hosts: all
+- hosts: 54.95.70.255
   become: true
   tasks:
     - name: create new deployment
